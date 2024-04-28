@@ -1,0 +1,37 @@
+    1  git add develop_test.txt
+    2  git status
+    3  touch develop_test.txt
+    4  git status
+    5  touch develop_test.txt
+    6  git status
+    7   git add develop_test.txt
+    8  git commit -m "develop_test.txt file"
+    9  git status
+   10  git add .
+   11  git commit -m "changed gitignore"
+   12  git checkaut develop
+   13  git branch
+   14  touch develop_test.txt
+   15  git status
+   16  touch develop_test1.txt
+   17  git status
+   18  git add develop_test1.txt
+   19  git status
+   20  git commit -m "develop_test.txt file"
+   21  git status
+   22  git add .
+   23  git commit -m "changed gitignore"
+   24  git push origin develop
+   25  git push --help
+   26  touch develop_test.txt
+   27  git status
+   28  git pull
+   29  vim develop_test.txt
+   30  git status
+   31  git add .
+   32  git commit -m "added develop_test.txt
+"
+   33  push origin develop
+   34  git push origin develop
+   35  git status
+   36  history > command_list.csv
